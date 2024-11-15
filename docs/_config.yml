@@ -1,9 +1,15 @@
 
+# Local Dev Settings
+# baseurl: ""
+
+# Publish(Github Pages Settings)
+baseurl: "minima-testing/"
+
+
 # Site Settings
 title: Theme Testing
 description: Welcome to my testing ground for my custom jekyll themes.
 github_username:  moaatt2
-baseurl: ""
 url: ""
 
 # Build settings
