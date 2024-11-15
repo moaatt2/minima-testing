@@ -1,8 +1,7 @@
 
 # Site Settings
-title: McKay Maille
-email: mckaymaille@gmail.com
-description: Welcome to my chainmaille showcase and blog. I hope you enjoy what you see and learn a lot here. 
+title: Theme Testing
+description: Welcome to my testing ground for my custom jekyll themes.
 github_username:  moaatt2
 baseurl: ""
 url: ""
@@ -21,12 +20,8 @@ minima:
       user_url: https://github.com/moaatt2
       user_title: GitHub
     
-    - platform: email
-      user_url: "mailto:mckaymaille@gmail.com"
-      user_title: "mckaymaille@gmail.com" 
-    
     - platform: code
-      user_url: "https://github.com/moaatt2/test-blog"
+      user_url: "https://github.com/moaatt2/minima-testing"
       user_title: Source Code
 
     - platform: rss
