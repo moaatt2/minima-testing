@@ -3,7 +3,7 @@
 # baseurl: ""
 
 # Publish(Github Pages Settings)
-baseurl: "minima-testing/"
+baseurl: "/minima-testing"
 
 
 # Site Settings
