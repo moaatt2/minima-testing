@@ -41,7 +41,7 @@
         "glossary_page_show": true
     },
     "standard_wire_gauge": {
-        "text": "Standard Wire Gauge(sWG) is a wire guage system that assigns a number to a specified thickness (Wire Diameter) of wire with a thicker wire having a smaller gauge. You can read more about it <a href=\"https://en.wikipedia.org/wiki/Standard_wire_gauge\">here</a>.",
+        "text": "Standard Wire Gauge(SWG) is a wire guage system that assigns a number to a specified thickness (Wire Diameter) of wire with a thicker wire having a smaller gauge. You can read more about it <a href=\"https://en.wikipedia.org/wiki/Standard_wire_gauge\">here</a>.",
         "glossary_page_show": true
     },
     "american_wire_gauge": {
