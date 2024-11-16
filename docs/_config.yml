@@ -18,7 +18,7 @@ plugins:
   - jekyll-remote-theme
 
 # Minima Settings
-remote_theme: moaatt2/minima@master
+remote_theme: moaatt2/minima@layout-improvements-1
 minima:
   skin: dark
   social_links:
