@@ -40,7 +40,7 @@ favicon: /assets/images/icon.png
 # Contact Settings
 contact:
   title: Send me a message
-  formspree_form_id: "xpwawddn"
+  formspree_form_id: ""
   form_message: "If you have a weave suggestion or just want to talk chainmail please use the form below to send me a mesage:"
 
 # Set links to grouping pages if you want to use them
