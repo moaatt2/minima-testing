@@ -21,6 +21,8 @@ plugins:
 author:
   name: Dakota McKay
   email: test@test.com
+feed:
+  icon: /assets/images/icon.png
 
 # Minima Settings
 remote_theme: moaatt2/minima@master
