@@ -1,5 +1,5 @@
 
-# Local Dev Settings
+# # Local Dev Settings
 # baseurl: ""
 
 # Publish(Github Pages Settings)
@@ -25,7 +25,7 @@ feed:
   icon: /assets/images/icon.png
 
 # Minima Settings
-remote_theme: moaatt2/minima@master
+remote_theme: moaatt2/minima@clean-up
 minima:
   skin: dark
   social_links:
