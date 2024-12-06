@@ -25,7 +25,7 @@ feed:
   icon: /assets/images/icon.png
 
 # Minima Settings
-remote_theme: moaatt2/minima@clean-up
+remote_theme: moaatt2/minima@master
 minima:
   skin: dark
   social_links:
