@@ -23,6 +23,7 @@ author:
   email: test@test.com
 feed:
   # url: 192.168.2.10 # override url for rss feed for local testing
+  url: https://moaatt2.github.io # manually set url for use with github pages.
   icon: /assets/images/icon.png
   logo: /assets/images/logo.png
 
