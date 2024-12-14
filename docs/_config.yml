@@ -22,10 +22,12 @@ author:
   name: Dakota McKay
   email: test@test.com
 feed:
+  # url: 192.168.2.10 # override url for rss feed for local testing
   icon: /assets/images/icon.png
+  logo: /assets/images/logo.png
 
 # Minima Settings
-remote_theme: moaatt2/minima@master
+remote_theme: moaatt2/minima@fix_rss
 minima:
   skin: dark
   social_links:
