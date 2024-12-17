@@ -14,7 +14,7 @@ url: ""
 
 # Build settings
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-remote-theme
 
 # Settings to influence rss feed
@@ -24,6 +24,7 @@ author:
 feed:
   # url: 192.168.2.10 # override url for rss feed for local testing
   url: https://moaatt2.github.io # manually set url for use with github pages.
+  path: /feed.xml
   icon: /assets/images/icon.png
   logo: /assets/images/logo.png
 
