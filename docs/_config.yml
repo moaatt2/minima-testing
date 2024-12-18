@@ -29,7 +29,7 @@ feed:
   logo: /assets/images/logo.png
 
 # Minima Settings
-remote_theme: moaatt2/minima@fix_rss
+remote_theme: moaatt2/minima@master
 minima:
   skin: dark
   social_links:
