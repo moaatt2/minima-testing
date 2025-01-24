@@ -88,6 +88,11 @@ Below are some images of the completed cube:
 <canvas class="model_canvas" id="v8"></canvas>
 
 
+### Interactive Model Light Grey Thick Black Outline 2 {% include 3d_model_instructions.html %}
+
+<canvas class="model_canvas" id="v9"></canvas>
+
+
 {% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_no_outline.glb" %}
 {% include  3d_model.html model=path canvas_id="baseline" ignore_canvas="Yes" %}
 
@@ -114,3 +119,6 @@ Below are some images of the completed cube:
 
 {% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_8.glb" %}
 {% include  3d_model.html model=path canvas_id="v8" ignore_canvas="Yes" is_secondary="Yes" %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_9.glb" %}
+{% include  3d_model.html model=path canvas_id="v9" ignore_canvas="Yes" is_secondary="Yes" %}
