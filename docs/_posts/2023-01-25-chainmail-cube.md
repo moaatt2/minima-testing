@@ -58,6 +58,26 @@ Below are some images of the completed cube:
 <canvas class="model_canvas" id="black_outline"></canvas>
 
 
+### Interactive Model Dark Grey White Outline {% include 3d_model_instructions.html %}
+
+<canvas class="model_canvas" id="v3"></canvas>
+
+
+### Interactive Model Dark Blue White Outline {% include 3d_model_instructions.html %}
+
+<canvas class="model_canvas" id="v4"></canvas>
+
+
+### Interactive Model Grey Red Outline {% include 3d_model_instructions.html %}
+
+<canvas class="model_canvas" id="v5"></canvas>
+
+
+### Interactive Model Grey Thick Black Outline {% include 3d_model_instructions.html %}
+
+<canvas class="model_canvas" id="v6"></canvas>
+
+
 {% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_no_outline.glb" %}
 {% include  3d_model.html model=path canvas_id="baseline" ignore_canvas="Yes" %}
 
@@ -66,3 +86,15 @@ Below are some images of the completed cube:
 
 {% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_black_outline.glb" %}
 {% include  3d_model.html model=path canvas_id="black_outline" ignore_canvas="Yes" is_secondary="Yes" %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_3.glb" %}
+{% include  3d_model.html model=path canvas_id="v3" ignore_canvas="Yes" is_secondary="Yes" %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_4.glb" %}
+{% include  3d_model.html model=path canvas_id="v4" ignore_canvas="Yes" is_secondary="Yes" %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_5.glb" %}
+{% include  3d_model.html model=path canvas_id="v5" ignore_canvas="Yes" is_secondary="Yes" %}
+
+{% assign path = site.baseurl | append: page.model_path | append: "/japanese_8_in_2_cube_v_6.glb" %}
+{% include  3d_model.html model=path canvas_id="v6" ignore_canvas="Yes" is_secondary="Yes" %}
